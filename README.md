@@ -242,6 +242,6 @@ AI Intern - Assessment/
 
 ## 📬 Submission
 
-Built by: **[Your Name]**  
+Built by: Mohammed Nawaz Sharif HK  
 Assessment: DOTMappers AI Engineer Role  
-Email: [RajathKumar@dotmappers.in](mailto:RajathKumar@dotmappers.in)
+Email:(mailto:RajathKumar@dotmappers.in)
